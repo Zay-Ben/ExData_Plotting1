@@ -51,4 +51,3 @@ with(hpc_eda,
 
 # close graphing device
 dev.off()
-
